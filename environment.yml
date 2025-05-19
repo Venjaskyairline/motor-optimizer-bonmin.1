@@ -1,0 +1,12 @@
+name: motor-optimizer
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - ipython
+  - jupyter
+  - numpy
+  - pandas
+  - pyomo
+  - bonmin
+  - openpyxl
